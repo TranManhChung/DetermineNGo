@@ -1,0 +1,4 @@
+[goroutine]
+max_size_test = 100
+num_incr = 1
+timeout_each_round = "2s"
